@@ -1,4 +1,8 @@
-public class TurkeyRick implements Turkey{
+package models;
+
+import interfaces.Turkey;
+
+public class TurkeyRick implements Turkey {
     @Override
     public void gobble() {
         System.out.println("Hi, I am Rick and I am a gobbling turkey");

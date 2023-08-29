@@ -1,4 +1,9 @@
-public class TurkeyAdapter implements Duck{
+package adapter;
+
+import interfaces.Duck;
+import interfaces.Turkey;
+
+public class TurkeyAdapter implements Duck {
 
     private final Turkey turkey;
 

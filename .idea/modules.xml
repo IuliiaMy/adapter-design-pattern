@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Duck Simulator/Duck Simulator.iml" filepath="$PROJECT_DIR$/Duck Simulator/Duck Simulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter-design-pattern.iml" filepath="$PROJECT_DIR$/adapter-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared.iml" filepath="$PROJECT_DIR$/shared/shared.iml" />
     </modules>
   </component>
 </project>

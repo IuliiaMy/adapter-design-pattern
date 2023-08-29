@@ -6,8 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JSON to XML Converter" />
+        <module name="Weather" />
+        <module name="JSON_to_XML_Converter" />
+        <module name="Weather2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JSON to XML Converter" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>

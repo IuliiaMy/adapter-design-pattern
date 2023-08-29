@@ -1,3 +1,8 @@
+import adapter.TurkeyAdapter;
+import interfaces.Duck;
+import models.DuckMorty;
+import models.TurkeyRick;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,6 +13,7 @@ public class DuckSimulator {
 
         List<Duck> ducks = new ArrayList<>();
         ducks.add(duckMorty);
+
         TurkeyAdapter turkeyAdapter= new TurkeyAdapter(turkeyRick);
         ducks.add(turkeyAdapter);
 
