@@ -1,5 +1,6 @@
 import org.json.JSONObject;
 import org.json.XML;
+import shared.SharedHttpRequest;
 
 public class Converter {
 
